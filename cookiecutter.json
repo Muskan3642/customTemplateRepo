@@ -1,0 +1,11 @@
+{
+    "project_name": "My Spring Boot Project",
+    "package_name": "com.example.myproject",
+    "description": "A description of my project.",
+    "author_name": "My Name",
+    "author_email": "myemail@example.com",
+    "version": "2.7.9",
+    "companyName":"Softtek",
+    "MainClass":"Customer"
+  }
+  
