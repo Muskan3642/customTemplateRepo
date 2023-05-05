@@ -5,7 +5,8 @@
     "author_name": "My Name",
     "author_email": "myemail@example.com",
     "version": "2.7.9",
-    "companyName":"Softtek",
+    
+    "modulename":"softtek",
     "MainClass":"Customer"
   }
   
