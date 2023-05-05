@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class {{cookiecutter.MainClass}}Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run({{cookiecutter.MainClass}}.class, args);
+		SpringApplication.run({{cookiecutter.MainClass}}Application.class, args);
 	}
 
 }
